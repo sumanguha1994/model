@@ -1,0 +1,137 @@
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=abc"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=abc"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=abc"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=abc"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=abc"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=abc"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=abc"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=abc"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=abc"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=abc"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=abc"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=test"}
+{"level":"info","message":"file created with: module.exports = { db: 'mongodb://localhost:27017/test' }"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=testagain"}
+{"level":"info","message":"file created with: module.exports = { db: 'mongodb://localhost:27017/testagain' }"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=testagain"}
+{"level":"info","message":"file created with: module.exports = { db: 'mongodb://localhost:27017/testagain' }"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=testagain"}
+{"level":"info","message":"file created with: module.exports = { db: 'mongodb://localhost:27017/testagain' }"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=testagain"}
+{"level":"info","message":"file created with: module.exports = { db: 'mongodb://localhost:27017/testagain' }"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=testagain"}
+{"level":"info","message":"file created with: module.exports = { db: 'mongodb://localhost:27017/testagain' }"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=testagain"}
+{"level":"info","message":"file created with: module.exports = { db: 'mongodb://localhost:27017/testagain' }"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=testagain"}
+{"level":"info","message":"file created with: module.exports = { db: 'mongodb://localhost:27017/testagain' }"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=testagain"}
+{"level":"info","message":"file created with: module.exports = { db: 'mongodb://localhost:27017/testagain' }"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=testagain"}
+{"level":"info","message":"file created with: module.exports = { db: 'mongodb://localhost:27017/testagain' }"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=testagainbatter"}
+{"level":"info","message":"file created with: module.exports = { db: 'mongodb://localhost:27017/testagainbatter' }"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"server starts on port: 4000"}
+{"level":"info","message":"mongodb connection strat on port: 27017"}
+{"level":"info","message":"request method: GET url:/change-schema?schemaName=dbconfig"}
+{"level":"info","message":"file created with: module.exports = { db: 'mongodb://localhost:27017/dbconfig' }"}

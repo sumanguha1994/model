@@ -1,3 +1,11 @@
 const express = require("express");
+const router = express.Router();
 
-module.exports.routes;
+const controller = require('../controllers/schema.controller');
+
+router.route("/").get(controller.connectionCheck);
+router.route("/change-schema/:schemaName?").get(controller.cheangeSchemaName);
+
+
+
+module.exports = router;

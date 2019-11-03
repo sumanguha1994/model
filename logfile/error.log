@@ -1,0 +1,13 @@
+{"level":"error","message":"file name ./db/test.js exists"}
+{"level":"error","message":"file name: test -> exists"}
+{"level":"error","message":"file name: test -> exists"}
+{"level":"error","message":"file name: abc -> exists"}
+{"level":"error","message":"file name: abc -> exists"}
+{"level":"error","message":"file not created with: [object Object]"}
+{"level":"error","message":"file not created with: module.exports = { db: mongodb://localhost:27017/abc + ,NaN"}
+{"level":"error","message":"file not created with: module.exports = { db: mongodb://localhost:27017/abc , }"}
+{"level":"error","message":"file not created with: module.exports = { db: 'mongodb://localhost:27017/''abc ', }"}
+{"level":"error","message":"file not created with: module.exports = { db: 'mongodb://localhost:27017/abc '}"}
+{"level":"error","message":"file not created with: module.exports = { db: 'mongodb://localhost:27017/abc' }"}
+{"level":"error","message":"file not created with: module.exports = { db: 'mongodb://localhost:27017/abc' }"}
+{"level":"error","message":"error occured: null"}
